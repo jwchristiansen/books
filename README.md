@@ -3,7 +3,7 @@
 Here are some books I read or re-read recently. If you recommend anything based on this list, please email me at `joel@worklaw.io`.
 
 - Epstein, David. **Range**
-- Caro, Robert. **Work**
+- Caro, Robert. **Working**
 - Fowler, Martin. **Refactoring**
 - Fowler, Susan. **Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber** 
 - Kavenna, Joanna. **Zed**
