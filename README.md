@@ -17,6 +17,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Fried, Jason and Heinemeier Hasson, David. **It Doesn't Have to Be Crazy at Work**
 - Fromm, Erich. **Escape from Freedom**
 - Haidt, Jonathan. **The Righteous Mind**
+- Harris, Annaka. **Conscious**
 - Harris, Dan. **10% Happier**
 - Kavenna, Joanna. **Zed**
 - Kierkegaard, Søren. **Either/Or**
