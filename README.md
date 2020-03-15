@@ -1,38 +1,38 @@
 # Books
 
-Here are some books I read or re-read recently. If you recommend anything based on this list, please email me at `joel@worklaw.io`.
+Here are some books I read or re-read recently, in alphabetical order by the author's last name. If you recommend anything based on this list, please email me at <joel@worklaw.io>.
 
-- Epstein, David. **Range**
-- Caro, Robert. **Working**
-- Fowler, Martin. **Refactoring**
-- Fowler, Susan. **Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber** 
-- Kavenna, Joanna. **Zed**
-- Fromm, Erich. **Escape from Freedom**
-- Christensen, Clayton, et al. **Competing Against Luck**
-- Berry, Wendell. **The Art of Loading Brush**
-- Lem, Stanislew. **The Futurological Congress**
-- Miller, Carl. **The Death of the Gods**
-- Snowden, Edward. **Permanent Record**
-- Lanier, Jaron. **You Are Not a Gadget**
-- Roberts, Gregory David. **Shantaram**
-- Buck, Jamis. **The Ray Tracer Challenge**
-- Fried, Jason and Heinemeier Hasson, David. **It Doesn't Have to Be Crazy at Work**
-- Kierkegaard, Søren. **Either/Or**
-- Watt Smith, Tiffany. **Schadenfreude**
-- Susskind, Richard. **The End of Lawyers?**
-- Stark, Peter. **The Last Empty Places**
-- Plato. **The Symposium**
-- Clements, Jeffrey. **Corporations Are Not People**
-- Harris, Dan. **10% Happier**
-- Bentham, Jeremy. **The Principles of Morals and Legislation**
-- Leopold, Aldo. **Sand County Almanac**
-- Quinones, Sam, et al. **Dreamland**
-- Haidt, Jonathan. **The Righteous Mind**
-- Pomerantsev, Peter. **Nothing is True and Everything is Possible: The Surreal Heart of the New Russia**
-- Nussbaum, Martha. **Anger and Foregiveness: Resentment, Generosity, Justice**
-- Caro, Robert. **The Path to Power**
-- Pollan, Michael. **How to Change Your Mind**
-- Beatty, Paul. **The Sellout**
-- Stegner, Wallace. **Beyond the Hundreth Meridian**
-- Pink, Daniel. **Drive**
 - Abbey, Edward. **Desert Solitaire**
+- Beatty, Paul. **The Sellout**
+- Bentham, Jeremy. **The Principles of Morals and Legislation**
+- Berry, Wendell. **The Art of Loading Brush**
+- Buck, Jamis. **The Ray Tracer Challenge**
+- Caro, Robert. **Working**
+- Caro, Robert. **The Path to Power**
+- Christensen, Clayton, et al. **Competing Against Luck**
+- Clements, Jeffrey. **Corporations Are Not People**
+- Epstein, David. **Range**
+- Fowler, Martin. **Refactoring**
+- Fowler, Susan. **Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber**
+- Fried, Jason and Heinemeier Hasson, David. **It Doesn't Have to Be Crazy at Work**
+- Fromm, Erich. **Escape from Freedom**
+- Haidt, Jonathan. **The Righteous Mind**
+- Harris, Dan. **10% Happier**
+- Kavenna, Joanna. **Zed**
+- Kierkegaard, Søren. **Either/Or**
+- Lanier, Jaron. **You Are Not a Gadget**
+- Lem, Stanislew. **The Futurological Congress**
+- Leopold, Aldo. **Sand County Almanac**
+- Miller, Carl. **The Death of the Gods**
+- Nussbaum, Martha. **Anger and Forgiveness: Resentment, Generosity, Justice**
+- Pink, Daniel. **Drive**
+- Plato. **The Symposium**
+- Pollan, Michael. **How to Change Your Mind**
+- Pomerantsev, Peter. **Nothing is True and Everything is Possible: The Surreal Heart of the New Russia**
+- Quinones, Sam, et al. **Dreamland**
+- Roberts, Gregory David. **Shantaram**
+- Snowden, Edward. **Permanent Record**
+- Stark, Peter. **The Last Empty Places**
+- Stegner, Wallace. **Beyond the Hundredth Meridian**
+- Susskind, Richard. **The End of Lawyers?**
+- Watt Smith, Tiffany. **Schadenfreude**
