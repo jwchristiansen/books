@@ -19,6 +19,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Haidt, Jonathan. **The Righteous Mind**
 - Harris, Annaka. **Conscious**
 - Harris, Dan. **10% Happier**
+- Huxley, Aldous. **Island**
 - Kavenna, Joanna. **Zed**
 - Kierkegaard, Søren. **Either/Or**
 - Lanier, Jaron. **You Are Not a Gadget**
