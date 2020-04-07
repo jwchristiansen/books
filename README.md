@@ -9,6 +9,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Buck, Jamis. **The Ray Tracer Challenge**
 - Caro, Robert. **Working**
 - Caro, Robert. **The Path to Power**
+- Chiang, Ted. **Exhalation**
 - Christensen, Clayton, et al. **Competing Against Luck**
 - Clements, Jeffrey. **Corporations Are Not People**
 - Epstein, David. **Range**
