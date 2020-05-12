@@ -12,6 +12,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Chiang, Ted. **Exhalation**
 - Christensen, Clayton, et al. **Competing Against Luck**
 - Clements, Jeffrey. **Corporations Are Not People**
+- Dolnick, Edward. **Down the Great Unknown: John Wesley Powell's 1869 Journey of Discovery and Tragedy Through the Grand Canyon**
 - Epstein, David. **Range**
 - Fowler, Martin. **Refactoring**
 - Fowler, Susan. **Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber**
