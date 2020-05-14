@@ -29,15 +29,15 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Leopold, Aldo. **[Sand County Almanac](https://www.goodreads.com/book/show/210404.A_Sand_County_Almanac_and_Sketches_Here_and_There?ac=1&from_search=true&qid=vFhcvkq0Lu&rank=1)**
 - Miller, Carl. **[The Death of the Gods](https://www.goodreads.com/book/show/40504262-the-death-of-the-gods?ac=1&from_search=true&qid=V4iow7WeI1&rank=2)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://www.goodreads.com/book/show/26721206-anger-and-forgiveness?ac=1&from_search=true&qid=UAMFtoqgvD&rank=1)**
-- Pink, Daniel. **Drive**
-- Plato. **The Symposium**
-- Pollan, Michael. **How to Change Your Mind**
-- Pomerantsev, Peter. **Nothing is True and Everything is Possible: The Surreal Heart of the New Russia**
-- Quinones, Sam, et al. **Dreamland**
-- Roberts, Gregory David. **Shantaram**
-- Snowden, Edward. **Permanent Record**
-- Stark, Peter. **The Last Empty Places**
-- Stegner, Wallace. **Beyond the Hundredth Meridian**
-- Susskind, Richard. **The End of Lawyers?**
-- Waldrop, M. Mitchell **The Dream Machine**
-- Watt Smith, Tiffany. **Schadenfreude**
+- Pink, Daniel. **[Drive](https://www.goodreads.com/book/show/6452796-drive?ac=1&from_search=true&qid=PJhYnTbaSr&rank=1)**
+- Plato. **[The Symposium](https://www.goodreads.com/book/show/81779.The_Symposium?ac=1&from_search=true&qid=QEyggxLiRy&rank=1)**
+- Pollan, Michael. **[How to Change Your Mind](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind?from_search=true&from_srp=true&qid=NoInrZEjE4&rank=1)**
+- Pomerantsev, Peter. **[Nothing is True and Everything is Possible: The Surreal Heart of the New Russia](https://www.goodreads.com/book/show/21413849-nothing-is-true-and-everything-is-possible?from_search=true&from_srp=true&qid=pKJ6D0pKtv&rank=1)**
+- Quinones, Sam, et al. **[Dreamland](https://www.goodreads.com/book/show/22529381-dreamland?from_search=true&from_srp=true&qid=Om2zLL9weG&rank=2)**
+- Roberts, Gregory David. **[Shantaram](https://www.goodreads.com/book/show/33600.Shantaram?ac=1&from_search=true&qid=lSGnlwdNxU&rank=1)**
+- Snowden, Edward. **[Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record?ac=1&from_search=true&qid=ADse5jmeU8&rank=1)**
+- Stark, Peter. **[The Last Empty Places](https://www.goodreads.com/book/show/8341938-the-last-empty-places?ac=1&from_search=true&qid=CaoKWH47Qq&rank=1)**
+- Stegner, Wallace. **[Beyond the Hundredth Meridian](https://www.goodreads.com/book/show/10802.Beyond_the_Hundredth_Meridian?from_search=true&from_srp=true&qid=vWKJ8s0JlT&rank=1)**
+- Susskind, Richard. **[The End of Lawyers?](https://www.goodreads.com/book/show/3075321-the-end-of-lawyers?ac=1&from_search=true&qid=BxlcHk8lcD&rank=1)**
+- Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://www.goodreads.com/book/show/722412.The_Dream_Machine?ac=1&from_search=true&qid=kzJKSZCf0w&rank=1)**
+- Watt Smith, Tiffany. **[Schadenfreude](https://www.goodreads.com/book/show/39088528-schadenfreude?ac=1&from_search=true&qid=XlevZ82HHJ&rank=1)**
