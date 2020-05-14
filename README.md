@@ -39,4 +39,5 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Stark, Peter. **The Last Empty Places**
 - Stegner, Wallace. **Beyond the Hundredth Meridian**
 - Susskind, Richard. **The End of Lawyers?**
+- Waldrop, M. Mitchell **The Dream Machine**
 - Watt Smith, Tiffany. **Schadenfreude**
