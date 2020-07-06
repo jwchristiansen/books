@@ -29,6 +29,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Leopold, Aldo. **[Sand County Almanac](https://www.goodreads.com/book/show/210404.A_Sand_County_Almanac_and_Sketches_Here_and_There?ac=1&from_search=true&qid=vFhcvkq0Lu&rank=1)**
 - Miller, Carl. **[The Death of the Gods](https://www.goodreads.com/book/show/40504262-the-death-of-the-gods?ac=1&from_search=true&qid=V4iow7WeI1&rank=2)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://www.goodreads.com/book/show/26721206-anger-and-forgiveness?ac=1&from_search=true&qid=UAMFtoqgvD&rank=1)**
+- Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://www.goodreads.com/book/show/42771901-how-to-do-nothing?from_search=true&from_srp=true&qid=0mn9H0iE9M&rank=1)**
 - Pink, Daniel. **[Drive](https://www.goodreads.com/book/show/6452796-drive?ac=1&from_search=true&qid=PJhYnTbaSr&rank=1)**
 - Plato. **[The Symposium](https://www.goodreads.com/book/show/81779.The_Symposium?ac=1&from_search=true&qid=QEyggxLiRy&rank=1)**
 - Pollan, Michael. **[How to Change Your Mind](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind?from_search=true&from_srp=true&qid=NoInrZEjE4&rank=1)**
