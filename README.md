@@ -40,5 +40,5 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Stark, Peter. **[The Last Empty Places](https://www.goodreads.com/book/show/8341938-the-last-empty-places?ac=1&from_search=true&qid=CaoKWH47Qq&rank=1)**
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://www.goodreads.com/book/show/10802.Beyond_the_Hundredth_Meridian?from_search=true&from_srp=true&qid=vWKJ8s0JlT&rank=1)**
 - Susskind, Richard. **[The End of Lawyers?](https://www.goodreads.com/book/show/3075321-the-end-of-lawyers?ac=1&from_search=true&qid=BxlcHk8lcD&rank=1)**
-- Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://www.goodreads.com/book/show/722412.The_Dream_Machine?ac=1&from_search=true&qid=kzJKSZCf0w&rank=1)**
+- Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://www.goodreads.com/book/show/722412.The_Dream_Machine?ac=1&from_search=true&qid=kzJKSZCf0w&rank=1)** (Read twice consecutively)
 - Watt Smith, Tiffany. **[Schadenfreude](https://www.goodreads.com/book/show/39088528-schadenfreude?ac=1&from_search=true&qid=XlevZ82HHJ&rank=1)**
