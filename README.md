@@ -11,6 +11,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Caro, Robert. **[The Path to Power](https://www.goodreads.com/book/show/86524.The_Path_to_Power?from_search=true&from_srp=true&qid=TtlZ04RYZc&rank=1)**
 - Chiang, Ted. **[Exhalation](https://www.goodreads.com/book/show/41160292-exhalation?ac=1&from_search=true&qid=ComaMqUGjQ&rank=1)**
 - Christensen, Clayton, et al. **[Competing Against Luck](https://www.goodreads.com/book/show/28820024-competing-against-luck?ac=1&from_search=true&qid=tZFBvhgfvc&rank=1)**
+- Clear, James. **[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits?from_search=true&from_srp=true&qid=5LkgKCdogQ&rank=1)**
 - Clements, Jeffrey. **[Corporations Are Not People](https://www.goodreads.com/book/show/12026163-corporations-are-not-people?ac=1&from_search=true&qid=sFlM2PP8EL&rank=1)**
 - Dolnick, Edward. **[Down the Great Unknown: John Wesley Powell's 1869 Journey of Discovery and Tragedy Through the Grand Canyon](https://www.goodreads.com/book/show/438097.Down_the_Great_Unknown)**
 - Epstein, David. **[Range](https://www.goodreads.com/book/show/41795733-range?ac=1&from_search=true&qid=srwnCxKObW&rank=1)**
