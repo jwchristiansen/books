@@ -16,7 +16,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Epstein, David. **[Range](https://www.goodreads.com/book/show/41795733-range?ac=1&from_search=true&qid=srwnCxKObW&rank=1)**
 - Fowler, Martin. **[Refactoring](https://www.goodreads.com/book/show/44936.Refactoring?ac=1&from_search=true&qid=IwwQtv2EuQ&rank=1)**
 - Fowler, Susan. **[Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber](https://www.goodreads.com/book/show/51117957-whistleblower?ac=1&from_search=true&qid=SRn86RtHtJ&rank=1)**
-- Fried, Jason and Heinemeier Hasson, David. **[It Doesn't Have to Be Crazy at Work](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work?from_search=true&from_srp=true&qid=zb09k9Fuue&rank=1)**
+- Fried, Jason and Heinemeier Hansson, David. **[It Doesn't Have to Be Crazy at Work](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work?from_search=true&from_srp=true&qid=zb09k9Fuue&rank=1)**
 - Fromm, Erich. **[Escape from Freedom](https://www.goodreads.com/book/show/25491.Escape_from_Freedom?ac=1&from_search=true&qid=fa1nlYC6Wo&rank=1)**
 - Fukoka, Masanobu. **[The One-Straw Revolution](https://www.goodreads.com/book/show/976905.The_One_Straw_Revolution?ac=1&from_search=true&qid=qAPutFAbCn&rank=1)**
 - Haidt, Jonathan. **[The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind?ac=1&from_search=true&qid=eGg0dqpml9&rank=1)**
