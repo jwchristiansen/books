@@ -19,6 +19,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Fowler, Susan. **[Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber](https://www.goodreads.com/book/show/51117957-whistleblower?ac=1&from_search=true&qid=SRn86RtHtJ&rank=1)**
 - Fried, Jason and Heinemeier Hansson, David. **[It Doesn't Have to Be Crazy at Work](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work?from_search=true&from_srp=true&qid=zb09k9Fuue&rank=1)**
 - Fromm, Erich. **[Escape from Freedom](https://www.goodreads.com/book/show/25491.Escape_from_Freedom?ac=1&from_search=true&qid=fa1nlYC6Wo&rank=1)**
+- Fromm, Erich. **[To Have or to Be?](https://www.goodreads.com/book/show/25490.To_Have_or_to_Be_The_Nature_of_the_Psyche?ac=1&from_search=true&qid=rz4nPD5utt&rank=1)**
 - Fukuoka, Masanobu. **[The One-Straw Revolution](https://www.goodreads.com/book/show/976905.The_One_Straw_Revolution?ac=1&from_search=true&qid=qAPutFAbCn&rank=1)**
 - Haidt, Jonathan. **[The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind?ac=1&from_search=true&qid=eGg0dqpml9&rank=1)**
 - Harris, Annaka. **[Conscious](https://www.goodreads.com/book/show/41571759-conscious?from_search=true&from_srp=true&qid=9DhRBz3mnH&rank=1)**
