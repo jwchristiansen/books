@@ -25,6 +25,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Harris, Annaka. **[Conscious](https://www.goodreads.com/book/show/41571759-conscious?from_search=true&from_srp=true&qid=9DhRBz3mnH&rank=1)**
 - Harris, Dan. **[10% Happier](https://www.goodreads.com/book/show/18505796-10-happier?from_search=true&from_srp=true&qid=7e29oR2jBJ&rank=1)**
 - Huxley, Aldous. **[Island](https://www.goodreads.com/book/show/5130.Island?from_search=true&from_srp=true&qid=qqYdu0njnk&rank=1)**
+- Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://www.goodreads.com/book/show/42983446-a-beginner-s-guide-to-japan?ac=1&from_search=true&qid=ZN51dz2iSe&rank=1)**
 - Kavenna, Joanna. **[Zed](https://www.goodreads.com/book/show/44451519-zed?ac=1&from_search=true&qid=bBDiNEo670&rank=2)**
 - Kierkegaard, Søren. **[Either/Or](https://www.goodreads.com/book/show/24970.Either_Or?ac=1&from_search=true&qid=3B1enDuBZn&rank=1)**
 - Lanier, Jaron. **[You Are Not a Gadget](https://www.goodreads.com/book/show/6683549-you-are-not-a-gadget?ac=1&from_search=true&qid=qdP6sjTqVu&rank=1)**
