@@ -2,48 +2,48 @@
 
 Here are some books I read or re-read recently, in alphabetical order by the author's last name. If you recommend anything based on this list, please email me at <joel@worklaw.io>.
 
-- Abbey, Edward. **[Desert Solitaire](https://www.goodreads.com/book/show/214614.Desert_Solitaire?from_search=true&from_srp=true&qid=H18tHxHWBY&rank=1)**
-- Beatty, Paul. **[The Sellout](https://www.goodreads.com/book/show/22237161-the-sellout?from_search=true&from_srp=true&qid=VeeEOk2puU&rank=1)**
-- Bentham, Jeremy. **[The Principles of Morals and Legislation](https://www.goodreads.com/book/show/318365.The_Principles_of_Morals_and_Legislation?from_search=true&from_srp=true&qid=SD3FBuaQUH&rank=2)**
-- Berry, Wendell. **[The Art of Loading Brush](https://www.goodreads.com/book/show/34773499-the-art-of-loading-brush?ac=1&from_search=true&qid=xp9s70OcMi&rank=1)**
-- Buck, Jamis. **[The Ray Tracer Challenge](https://www.goodreads.com/book/show/39933047-the-ray-tracer-challenge?ac=1&from_search=true&qid=ankv3auqdO&rank=1)**
-- Caro, Robert. **[Working](https://www.goodreads.com/book/show/43205240-working?from_search=true&from_srp=true&qid=W10isbTyHI&rank=1)**
-- Caro, Robert. **[The Path to Power](https://www.goodreads.com/book/show/86524.The_Path_to_Power?from_search=true&from_srp=true&qid=TtlZ04RYZc&rank=1)**
-- Chiang, Ted. **[Exhalation](https://www.goodreads.com/book/show/41160292-exhalation?ac=1&from_search=true&qid=ComaMqUGjQ&rank=1)**
-- Christensen, Clayton, et al. **[Competing Against Luck](https://www.goodreads.com/book/show/28820024-competing-against-luck?ac=1&from_search=true&qid=tZFBvhgfvc&rank=1)**
-- Clear, James. **[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits?from_search=true&from_srp=true&qid=5LkgKCdogQ&rank=1)**
-- Clements, Jeffrey. **[Corporations Are Not People](https://www.goodreads.com/book/show/12026163-corporations-are-not-people?ac=1&from_search=true&qid=sFlM2PP8EL&rank=1)**
-- Dolnick, Edward. **[Down the Great Unknown: John Wesley Powell's 1869 Journey of Discovery and Tragedy Through the Grand Canyon](https://www.goodreads.com/book/show/438097.Down_the_Great_Unknown)**
-- Epstein, David. **[Range](https://www.goodreads.com/book/show/41795733-range?ac=1&from_search=true&qid=srwnCxKObW&rank=1)**
-- Fowler, Martin. **[Refactoring](https://www.goodreads.com/book/show/44936.Refactoring?ac=1&from_search=true&qid=IwwQtv2EuQ&rank=1)**
-- Fowler, Susan. **[Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber](https://www.goodreads.com/book/show/51117957-whistleblower?ac=1&from_search=true&qid=SRn86RtHtJ&rank=1)**
-- Fried, Jason and Heinemeier Hansson, David. **[It Doesn't Have to Be Crazy at Work](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work?from_search=true&from_srp=true&qid=zb09k9Fuue&rank=1)**
-- Fromm, Erich. **[Escape from Freedom](https://www.goodreads.com/book/show/25491.Escape_from_Freedom?ac=1&from_search=true&qid=fa1nlYC6Wo&rank=1)**
-- Fromm, Erich. **[To Have or to Be?](https://www.goodreads.com/book/show/25490.To_Have_or_to_Be_The_Nature_of_the_Psyche?ac=1&from_search=true&qid=rz4nPD5utt&rank=1)**
-- Fukuoka, Masanobu. **[The One-Straw Revolution](https://www.goodreads.com/book/show/976905.The_One_Straw_Revolution?ac=1&from_search=true&qid=qAPutFAbCn&rank=1)**
-- Haidt, Jonathan. **[The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind?ac=1&from_search=true&qid=eGg0dqpml9&rank=1)**
-- Harris, Annaka. **[Conscious](https://www.goodreads.com/book/show/41571759-conscious?from_search=true&from_srp=true&qid=9DhRBz3mnH&rank=1)**
-- Harris, Dan. **[10% Happier](https://www.goodreads.com/book/show/18505796-10-happier?from_search=true&from_srp=true&qid=7e29oR2jBJ&rank=1)**
-- Huxley, Aldous. **[Island](https://www.goodreads.com/book/show/5130.Island?from_search=true&from_srp=true&qid=qqYdu0njnk&rank=1)**
-- Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://www.goodreads.com/book/show/42983446-a-beginner-s-guide-to-japan?ac=1&from_search=true&qid=ZN51dz2iSe&rank=1)**
-- Kavenna, Joanna. **[Zed](https://www.goodreads.com/book/show/44451519-zed?ac=1&from_search=true&qid=bBDiNEo670&rank=2)**
-- Kierkegaard, Søren. **[Either/Or](https://www.goodreads.com/book/show/24970.Either_Or?ac=1&from_search=true&qid=3B1enDuBZn&rank=1)**
+- Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
+- Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
+- Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
+- Berry, Wendell. **[The Art of Loading Brush](https://bit.ly/310dNMt)**
+- Buck, Jamis. **[The Ray Tracer Challenge](https://bit.ly/3feDLRJ)**
+- Caro, Robert. **[Working](https://bit.ly/33d7ZSy)**
+- Caro, Robert. **[The Path to Power](https://bit.ly/30ahsIu)**
+- Chiang, Ted. **[Exhalation](https://bit.ly/2DeNnhT)**
+- Christensen, Clayton, et al. **[Competing Against Luck](https://bit.ly/33b0j36)**
+- Clear, James. **[Atomic Habits](https://bit.ly/315bx6z)**
+- Clements, Jeffrey. **[Corporations Are Not People](https://bit.ly/338DkWr)**
+- Dolnick, Edward. **[Down the Great Unknown: John Wesley Powell's 1869 Journey of Discovery and Tragedy Through the Grand Canyon](https://bit.ly/39Hrd4b)**
+- Epstein, David. **[Range](https://bit.ly/2EqzNbJ)**
+- Fowler, Martin. **[Refactoring](https://bit.ly/3jVaHSJ)**
+- Fowler, Susan. **[Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber](https://bit.ly/315nGbV)**
+- Fried, Jason and Heinemeier Hansson, David. **[It Doesn't Have to Be Crazy at Work](https://bit.ly/2EALyfV)**
+- Fromm, Erich. **[Escape from Freedom](https://bit.ly/3hPKvXD)**
+- Fromm, Erich. **[To Have or to Be?](https://bit.ly/2BOetfy)**
+- Fukuoka, Masanobu. **[The One-Straw Revolution](https://bit.ly/3jX5d9R)**
+- Haidt, Jonathan. **[The Righteous Mind](https://bit.ly/2EqB3vt)**
+- Harris, Annaka. **[Conscious](https://bit.ly/2PdfYGU)**
+- Harris, Dan. **[10% Happier](https://bit.ly/2ErTv6W)**
+- Huxley, Aldous. **[Island](https://bit.ly/339XZJR)**
+- Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://bit.ly/33n4h9h)**
+- Kavenna, Joanna. **[Zed](https://bit.ly/2Dk3Z7U)**
+- Kierkegaard, Søren. **[Either/Or](https://bit.ly/39KuyPY)**
 - Kurzweil, Ray. **[The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://bit.ly/30cpqAG)**
-- Lanier, Jaron. **[You Are Not a Gadget](https://www.goodreads.com/book/show/6683549-you-are-not-a-gadget?ac=1&from_search=true&qid=qdP6sjTqVu&rank=1)**
-- Lem, Stanislew. **[The Futurological Congress](https://www.goodreads.com/book/show/733473.The_Futurological_Congress?from_search=true&from_srp=true&qid=yQjZOOS0uN&rank=1)**
-- Leopold, Aldo. **[Sand County Almanac](https://www.goodreads.com/book/show/210404.A_Sand_County_Almanac_and_Sketches_Here_and_There?ac=1&from_search=true&qid=vFhcvkq0Lu&rank=1)**
-- Miller, Carl. **[The Death of the Gods](https://www.goodreads.com/book/show/40504262-the-death-of-the-gods?ac=1&from_search=true&qid=V4iow7WeI1&rank=2)**
-- Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://www.goodreads.com/book/show/26721206-anger-and-forgiveness?ac=1&from_search=true&qid=UAMFtoqgvD&rank=1)**
-- Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://www.goodreads.com/book/show/42771901-how-to-do-nothing?from_search=true&from_srp=true&qid=0mn9H0iE9M&rank=1)**
-- Pink, Daniel. **[Drive](https://www.goodreads.com/book/show/6452796-drive?ac=1&from_search=true&qid=PJhYnTbaSr&rank=1)**
-- Plato. **[The Symposium](https://www.goodreads.com/book/show/81779.The_Symposium?ac=1&from_search=true&qid=QEyggxLiRy&rank=1)**
-- Pollan, Michael. **[How to Change Your Mind](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind?from_search=true&from_srp=true&qid=NoInrZEjE4&rank=1)**
-- Pomerantsev, Peter. **[Nothing is True and Everything is Possible: The Surreal Heart of the New Russia](https://www.goodreads.com/book/show/21413849-nothing-is-true-and-everything-is-possible?from_search=true&from_srp=true&qid=pKJ6D0pKtv&rank=1)**
-- Quinones, Sam, et al. **[Dreamland](https://www.goodreads.com/book/show/22529381-dreamland?from_search=true&from_srp=true&qid=Om2zLL9weG&rank=2)**
-- Roberts, Gregory David. **[Shantaram](https://www.goodreads.com/book/show/33600.Shantaram?ac=1&from_search=true&qid=lSGnlwdNxU&rank=1)**
-- Snowden, Edward. **[Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record?ac=1&from_search=true&qid=ADse5jmeU8&rank=1)**
-- Stark, Peter. **[The Last Empty Places](https://www.goodreads.com/book/show/8341938-the-last-empty-places?ac=1&from_search=true&qid=CaoKWH47Qq&rank=1)**
-- Stegner, Wallace. **[Beyond the Hundredth Meridian](https://www.goodreads.com/book/show/10802.Beyond_the_Hundredth_Meridian?from_search=true&from_srp=true&qid=vWKJ8s0JlT&rank=1)**
-- Susskind, Richard. **[The End of Lawyers?](https://www.goodreads.com/book/show/3075321-the-end-of-lawyers?ac=1&from_search=true&qid=BxlcHk8lcD&rank=1)**
-- Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://www.goodreads.com/book/show/722412.The_Dream_Machine?ac=1&from_search=true&qid=kzJKSZCf0w&rank=1)** (Read twice consecutively)
-- Watt Smith, Tiffany. **[Schadenfreude](https://www.goodreads.com/book/show/39088528-schadenfreude?ac=1&from_search=true&qid=XlevZ82HHJ&rank=1)**
+- Lanier, Jaron. **[You Are Not a Gadget](https://bit.ly/338yCbc)**
+- Lem, Stanislew. **[The Futurological Congress](https://bit.ly/2X9ndnG)**
+- Leopold, Aldo. **[Sand County Almanac](https://bit.ly/3jXf4Nd)**
+- Miller, Carl. **[The Death of the Gods](https://bit.ly/2Xe1sTM)**
+- Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
+- Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://bit.ly/39O4gwc)**
+- Pink, Daniel. **[Drive](https://bit.ly/2Xb9ZXO)**
+- Plato. **[The Symposium](https://bit.ly/3gcUplO)**
+- Pollan, Michael. **[How to Change Your Mind](https://bit.ly/339BjJz)**
+- Pomerantsev, Peter. **[Nothing is True and Everything is Possible: The Surreal Heart of the New Russia](https://bit.ly/318L7kK)**
+- Quinones, Sam, et al. **[Dreamland](https://bit.ly/3hQHvdB)**
+- Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
+- Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
+- Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
+- Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
+- Susskind, Richard. **[The End of Lawyers?](https://bit.ly/33b7xEg)**
+- Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)** (Read twice consecutively)
+- Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
