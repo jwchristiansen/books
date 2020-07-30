@@ -28,6 +28,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://www.goodreads.com/book/show/42983446-a-beginner-s-guide-to-japan?ac=1&from_search=true&qid=ZN51dz2iSe&rank=1)**
 - Kavenna, Joanna. **[Zed](https://www.goodreads.com/book/show/44451519-zed?ac=1&from_search=true&qid=bBDiNEo670&rank=2)**
 - Kierkegaard, Søren. **[Either/Or](https://www.goodreads.com/book/show/24970.Either_Or?ac=1&from_search=true&qid=3B1enDuBZn&rank=1)**
+- Kurzweil, Ray. **[The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://bit.ly/30cpqAG)**
 - Lanier, Jaron. **[You Are Not a Gadget](https://www.goodreads.com/book/show/6683549-you-are-not-a-gadget?ac=1&from_search=true&qid=qdP6sjTqVu&rank=1)**
 - Lem, Stanislew. **[The Futurological Congress](https://www.goodreads.com/book/show/733473.The_Futurological_Congress?from_search=true&from_srp=true&qid=yQjZOOS0uN&rank=1)**
 - Leopold, Aldo. **[Sand County Almanac](https://www.goodreads.com/book/show/210404.A_Sand_County_Almanac_and_Sketches_Here_and_There?ac=1&from_search=true&qid=vFhcvkq0Lu&rank=1)**
