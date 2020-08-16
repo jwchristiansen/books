@@ -1,6 +1,6 @@
 # Books
 
-Here are some books I read or re-read recently, in alphabetical order by the author's last name. If you recommend anything based on this list, please email me at <joel@worklaw.io>.
+Books I read or re-read recently, in alphabetical order by the author's last name. If you recommend anything based on this list, please email me at <joelc@hey.com>.
 
 - Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
@@ -21,6 +21,7 @@ Here are some books I read or re-read recently, in alphabetical order by the aut
 - Fromm, Erich. **[Escape from Freedom](https://bit.ly/3hPKvXD)**
 - Fromm, Erich. **[To Have or to Be?](https://bit.ly/2BOetfy)**
 - Fukuoka, Masanobu. **[The One-Straw Revolution](https://bit.ly/3jX5d9R)**
+- Gilbert, Daniel Todd. **[Stumbling on Happiness](https://bit.ly/3aGvFkd)**
 - Haidt, Jonathan. **[The Righteous Mind](https://bit.ly/2EqB3vt)**
 - Harris, Annaka. **[Conscious](https://bit.ly/2PdfYGU)**
 - Harris, Dan. **[10% Happier](https://bit.ly/2ErTv6W)**
