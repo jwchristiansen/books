@@ -9,6 +9,7 @@ Books I read or re-read recently, in alphabetical order by the author's last nam
 - Buck, Jamis. **[The Ray Tracer Challenge](https://bit.ly/3feDLRJ)**
 - Caro, Robert. **[Working](https://bit.ly/33d7ZSy)**
 - Caro, Robert. **[The Path to Power](https://bit.ly/30ahsIu)**
+- Carr, Nicholas. **[The Shallows: What the Internet Is Doing to Our Brains](https://bit.ly/2PVi1zN)**
 - Chiang, Ted. **[Exhalation](https://bit.ly/2DeNnhT)**
 - Christensen, Clayton, et al. **[Competing Against Luck](https://bit.ly/33b0j36)**
 - Clear, James. **[Atomic Habits](https://bit.ly/315bx6z)**
