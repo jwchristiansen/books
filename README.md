@@ -28,6 +28,7 @@ Books I read or re-read recently, in alphabetical order by the author's last nam
 - Harris, Dan. **[10% Happier](https://bit.ly/2ErTv6W)**
 - Huxley, Aldous. **[Island](https://bit.ly/339XZJR)**
 - Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://bit.ly/33n4h9h)**
+- Johnstone, Keith. **[Impro](https://bit.ly/3h39Ahi)**
 - Kavenna, Joanna. **[Zed](https://bit.ly/2Dk3Z7U)**
 - Kierkegaard, Søren. **[Either/Or](https://bit.ly/39KuyPY)**
 - Kurzweil, Ray. **[The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://bit.ly/30cpqAG)**
