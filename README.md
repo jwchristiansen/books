@@ -37,6 +37,7 @@ Books I read or re-read recently, in alphabetical order by the author's last nam
 - Miller, Carl. **[The Death of the Gods](https://bit.ly/2Xe1sTM)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
 - Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://bit.ly/39O4gwc)**
+- Pearson, Taylor. **[The End of Jobs](https://bit.ly/2QSjxn6)**
 - Pink, Daniel. **[Drive](https://bit.ly/2Xb9ZXO)**
 - Plato. **[The Symposium](https://bit.ly/3gcUplO)**
 - Pollan, Michael. **[How to Change Your Mind](https://bit.ly/339BjJz)**
