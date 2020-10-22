@@ -1,6 +1,6 @@
 # Books
 
-Books I read or re-read recently, in alphabetical order by the author's last name. If you recommend anything based on this list, please email me at <joelc@hey.com>.
+Recent reading, in alphabetical order by the author's last name (chronological **[here](https://github.com/jwchristiansen/books/commits/master)**). If you recommend anything based on this list, please email me at <joelc@hey.com>.
 
 - Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
@@ -51,6 +51,7 @@ Books I read or re-read recently, in alphabetical order by the author's last nam
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
 - Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
 - Sivers, Derek. **[Hell Yeah or No](https://bit.ly/2BGZcgi)**
+- Sivers, Derek. **[Your Music and People](https://bit.ly/2TdKzX8)**
 - Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
