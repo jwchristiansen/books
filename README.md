@@ -45,6 +45,7 @@ Books I read or re-read recently, in alphabetical order by the author's last nam
 - Plato. **[The Symposium](https://bit.ly/3gcUplO)**
 - Pollan, Michael. **[How to Change Your Mind](https://bit.ly/339BjJz)**
 - Pomerantsev, Peter. **[Nothing is True and Everything is Possible: The Surreal Heart of the New Russia](https://bit.ly/318L7kK)**
+- Pressfield, Steven. **[Nobody Wants to Read Your Sh*t](https://bit.ly/3dMOCD2)**
 - Quinones, Sam, et al. **[Dreamland](https://bit.ly/3hQHvdB)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
 - Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
@@ -53,5 +54,5 @@ Books I read or re-read recently, in alphabetical order by the author's last nam
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
 - Susskind, Richard. **[The End of Lawyers?](https://bit.ly/33b7xEg)**
-- Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)** (Read twice consecutively)
+- Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
 - Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
