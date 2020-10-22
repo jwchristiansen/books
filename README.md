@@ -37,6 +37,7 @@ Books I read or re-read recently, in alphabetical order by the author's last nam
 - Lanier, Jaron. **[You Are Not a Gadget](https://bit.ly/338yCbc)**
 - Lem, Stanislew. **[The Futurological Congress](https://bit.ly/2X9ndnG)**
 - Leopold, Aldo. **[Sand County Almanac](https://bit.ly/3jXf4Nd)**
+- Mars, Roman. **[The 99% Invisible City](https://99percentinvisible.org/book/)**
 - Miller, Carl. **[The Death of the Gods](https://bit.ly/2Xe1sTM)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
 - Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://bit.ly/39O4gwc)**
