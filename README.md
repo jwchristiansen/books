@@ -47,6 +47,7 @@ Books I read or re-read recently, in alphabetical order by the author's last nam
 - Pomerantsev, Peter. **[Nothing is True and Everything is Possible: The Surreal Heart of the New Russia](https://bit.ly/318L7kK)**
 - Quinones, Sam, et al. **[Dreamland](https://bit.ly/3hQHvdB)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
+- Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
 - Sivers, Derek. **[Hell Yeah or No](https://bit.ly/2BGZcgi)**
 - Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
