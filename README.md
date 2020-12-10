@@ -51,6 +51,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Quinones, Sam, et al. **[Dreamland](https://bit.ly/3hQHvdB)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
 - Sapolsky, Robert M. **[Behave: The Biology of Humans at Our Best and Worst](https://bit.ly/3m7WQrW)**
+- Singer, Ryan. **[Shape Up: Stop Running in Circles and Ship Work That Matters](https://bit.ly/2IBTpfv)**
 - Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
 - Sivers, Derek. **[Hell Yeah or No](https://bit.ly/2BGZcgi)**
 - Sivers, Derek. **[Your Music and People](https://bit.ly/2TdKzX8)**
