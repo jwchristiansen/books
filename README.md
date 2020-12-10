@@ -47,6 +47,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Pink, Daniel. **[Drive](https://bit.ly/2Xb9ZXO)**
 - Plato. **[The Symposium](https://bit.ly/3gcUplO)**
 - Pollan, Michael. **[How to Change Your Mind](https://bit.ly/339BjJz)**
+- Pólya, George. **[How to Solve It: A New Aspect of Mathematical Method](https://bit.ly/3gyb4kI)**
 - Pomerantsev, Peter. **[Nothing is True and Everything is Possible: The Surreal Heart of the New Russia](https://bit.ly/318L7kK)**
 - Pressfield, Steven. **[Nobody Wants to Read Your Sh*t](https://bit.ly/3dMOCD2)**
 - Quinones, Sam, et al. **[Dreamland](https://bit.ly/3hQHvdB)**
