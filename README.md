@@ -3,6 +3,7 @@
 Recent reading, in alphabetical order by the author's last name (chronological **[here](https://github.com/jwchristiansen/books/commits/master)**). If you recommend anything based on this list, please email me at <joelc@hey.com>.
 
 - Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
+- Ahrens, Sönke. **[How to Take Smart Notes](https://bit.ly/3oMfpUB)**
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
 - Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
 - Berry, Wendell. **[The Art of Loading Brush](https://bit.ly/310dNMt)**
