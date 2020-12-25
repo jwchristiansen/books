@@ -18,6 +18,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Clements, Jeffrey. **[Corporations Are Not People](https://bit.ly/338DkWr)**
 - Dolnick, Edward. **[Down the Great Unknown: John Wesley Powell's 1869 Journey of Discovery and Tragedy Through the Grand Canyon](https://bit.ly/39Hrd4b)**
 - Egan, Timothy. **[Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis](https://bit.ly/3n9Rb6C)**
+- Eghbal, Nadia. **[Working in Public: The Making and Maintenance of Open Source Software](https://bit.ly/2KVSI1z)**
 - Epstein, David. **[Range](https://bit.ly/2EqzNbJ)**
 - Fowler, Martin. **[Refactoring](https://bit.ly/3jVaHSJ)**
 - Fowler, Susan. **[Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber](https://bit.ly/315nGbV)**
