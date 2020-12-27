@@ -40,6 +40,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Lem, Stanislew. **[The Futurological Congress](https://bit.ly/2X9ndnG)**
 - Leopold, Aldo. **[Sand County Almanac](https://bit.ly/3jXf4Nd)**
 - Ma, Ling. **[Severance](https://bit.ly/37RjwYy)**
+- Mackesy, Charlie. **[The Boy, the Mole, the Fox and the Horse](https://bit.ly/2WRxiFk)**
 - Mars, Roman. **[The 99% Invisible City](https://99percentinvisible.org/book/)**
 - Miller, Carl. **[The Death of the Gods](https://bit.ly/2Xe1sTM)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
