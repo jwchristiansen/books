@@ -30,6 +30,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Haidt, Jonathan. **[The Righteous Mind](https://bit.ly/2EqB3vt)**
 - Harris, Annaka. **[Conscious](https://bit.ly/2PdfYGU)**
 - Harris, Dan. **[10% Happier](https://bit.ly/2ErTv6W)**
+- Harris, Sam. **[Waking Up: A Guide to Spirituality Without Religion](https://bit.ly/3oBCDwR)**
 - Huxley, Aldous. **[Island](https://bit.ly/339XZJR)**
 - Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://bit.ly/33n4h9h)**
 - Johnstone, Keith. **[Impro](https://bit.ly/3h39Ahi)**
