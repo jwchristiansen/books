@@ -4,6 +4,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 
 - Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
 - Ahrens, Sönke. **[How to Take Smart Notes](https://bit.ly/3oMfpUB)**
+- Anderson, William. **[Prairie Girl: The Life of Laura Ingalls Wilder](https://bit.ly/39IXbgT)**
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
 - Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
 - Berry, Wendell. **[The Art of Loading Brush](https://bit.ly/310dNMt)**
