@@ -65,6 +65,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
+- Taleb, Nassim Nicholas. **[Antifragile: Things That Gain from Disorder](https://bit.ly/3qB202s)**
 - Susskind, Richard. **[The End of Lawyers?](https://bit.ly/33b7xEg)**
 - Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
 - Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
