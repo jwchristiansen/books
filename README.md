@@ -46,6 +46,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Ma, Ling. **[Severance](https://bit.ly/37RjwYy)**
 - Mackesy, Charlie. **[The Boy, the Mole, the Fox and the Horse](https://bit.ly/2WRxiFk)**
 - Mars, Roman. **[The 99% Invisible City](https://99percentinvisible.org/book/)**
+- Metz, Sandi. **[Practical Object Oriented Design in Ruby](https://bit.ly/3aRjaDX)**
 - Miller, Carl. **[The Death of the Gods](https://bit.ly/2Xe1sTM)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
 - Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://bit.ly/39O4gwc)**
