@@ -21,6 +21,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Egan, Timothy. **[Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis](https://bit.ly/3n9Rb6C)**
 - Eghbal, Nadia. **[Working in Public: The Making and Maintenance of Open Source Software](https://bit.ly/2KVSI1z)**
 - Epstein, David. **[Range](https://bit.ly/2EqzNbJ)**
+- Fitzpatrick, Rob. **[The Mom Test](https://bit.ly/3pNUIYb)**
 - Fowler, Martin. **[Refactoring](https://bit.ly/3jVaHSJ)**
 - Fowler, Susan. **[Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber](https://bit.ly/315nGbV)**
 - Fried, Jason and Heinemeier Hansson, David. **[It Doesn't Have to Be Crazy at Work](https://bit.ly/2EALyfV)**
