@@ -61,6 +61,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Pressfield, Steven. **[Nobody Wants to Read Your Sh*t](https://bit.ly/3dMOCD2)**
 - Pressfield, Steven. **[The War of Art](https://bit.ly/3byBz7C)**
 - Quinones, Sam, et al. **[Dreamland](https://bit.ly/3hQHvdB)**
+- Rhodes, Richard. **[How to Write: Advice and Reflections](https://bit.ly/3u5kRnU)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
 - Sapolsky, Robert M. **[Behave: The Biology of Humans at Our Best and Worst](https://bit.ly/3m7WQrW)**
 - Singer, Ryan. **[Shape Up: Stop Running in Circles and Ship Work That Matters](https://bit.ly/2IBTpfv)**
