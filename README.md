@@ -64,6 +64,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Rhodes, Richard. **[How to Write: Advice and Reflections](https://bit.ly/3u5kRnU)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
 - Sapolsky, Robert M. **[Behave: The Biology of Humans at Our Best and Worst](https://bit.ly/3m7WQrW)**
+- Schwartz, Barry. **[Why We Work](https://bit.ly/3cCoWud)**
 - Singer, Ryan. **[Shape Up: Stop Running in Circles and Ship Work That Matters](https://bit.ly/2IBTpfv)**
 - Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
 - Sivers, Derek. **[Hell Yeah or No](https://bit.ly/2BGZcgi)**
