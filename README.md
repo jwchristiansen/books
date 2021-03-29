@@ -8,6 +8,7 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
 - Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
 - Berry, Wendell. **[The Art of Loading Brush](https://bit.ly/310dNMt)**
+- Brooks, David. **[The Second Mountain](https://bit.ly/3ryPtwH)**
 - Buck, Jamis. **[The Ray Tracer Challenge](https://bit.ly/3feDLRJ)**
 - Caro, Robert. **[Working](https://bit.ly/33d7ZSy)**
 - Caro, Robert. **[The Path to Power](https://bit.ly/30ahsIu)**
