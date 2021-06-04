@@ -1,6 +1,6 @@
 # Books
 
-Recent reading, in alphabetical order by the author's last name (chronological **[here](https://github.com/jwchristiansen/books/commits/master)**). If you recommend anything based on this list, please email me at <joelc@hey.com>.
+Alphabetical order by author last name (chronological **[here](https://github.com/jwchristiansen/books/commits/master)**).
 
 - Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
 - Ahrens, Sönke. **[How to Take Smart Notes](https://bit.ly/3oMfpUB)**
@@ -16,8 +16,8 @@ Recent reading, in alphabetical order by the author's last name (chronological *
 - Carr, Nicholas. **[The Shallows: What the Internet Is Doing to Our Brains](https://bit.ly/2PVi1zN)**
 - Chiang, Ted. **[Exhalation](https://bit.ly/2DeNnhT)**
 - Christensen, Clayton, et al. **[Competing Against Luck](https://bit.ly/33b0j36)**
+- Christian, Bryan and Griffiths, Tom. **[Algorithms to Live By: The Computer Science of Human Decisions](https://bit.ly/3wVqt5K)**
 - Clear, James. **[Atomic Habits](https://bit.ly/315bx6z)**
-- Clements, Jeffrey. **[Corporations Are Not People](https://bit.ly/338DkWr)**
 - Dolnick, Edward. **[Down the Great Unknown: John Wesley Powell's 1869 Journey of Discovery and Tragedy Through the Grand Canyon](https://bit.ly/39Hrd4b)**
 - Egan, Timothy. **[Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis](https://bit.ly/3n9Rb6C)**
 - Eghbal, Nadia. **[Working in Public: The Making and Maintenance of Open Source Software](https://bit.ly/2KVSI1z)**
