@@ -70,6 +70,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
 - Sivers, Derek. **[Hell Yeah or No](https://bit.ly/2BGZcgi)**
 - Sivers, Derek. **[Your Music and People](https://bit.ly/2TdKzX8)**
+- Smart, Geoff. **[Who: The A Method for Hiring](https://bit.ly/3wq4bJB)**
 - Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
