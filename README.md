@@ -69,6 +69,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Singer, Ryan. **[Shape Up: Stop Running in Circles and Ship Work That Matters](https://bit.ly/2IBTpfv)**
 - Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
 - Sivers, Derek. **[Hell Yeah or No](https://bit.ly/2BGZcgi)**
+- Sivers, Derek. **[How to Live](https://sive.rs/h)**
 - Sivers, Derek. **[Your Music and People](https://bit.ly/2TdKzX8)**
 - Smart, Geoff. **[Who: The A Method for Hiring](https://bit.ly/3wq4bJB)**
 - Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
