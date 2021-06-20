@@ -23,6 +23,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Egan, Timothy. **[Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis](https://bit.ly/3n9Rb6C)**
 - Eghbal, Nadia. **[Working in Public: The Making and Maintenance of Open Source Software](https://bit.ly/2KVSI1z)**
 - Epstein, David. **[Range](https://bit.ly/2EqzNbJ)**
+- Eyal, Nir. **[Hooked: How to Build Habit-Forming Products](https://bit.ly/35GtT0K)**
 - Fitzpatrick, Rob. **[The Mom Test](https://bit.ly/3pNUIYb)**
 - Fowler, Martin. **[Refactoring](https://bit.ly/3jVaHSJ)**
 - Fowler, Susan. **[Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber](https://bit.ly/315nGbV)**
