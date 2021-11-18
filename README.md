@@ -42,6 +42,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Johnstone, Keith. **[Impro](https://bit.ly/3h39Ahi)**
 - Kavenna, Joanna. **[Zed](https://bit.ly/2Dk3Z7U)**
 - Kierkegaard, Søren. **[Either/Or](https://bit.ly/39KuyPY)**
+- Kofman, Fred. **[The Meaning Revolution: The Power of Transcendent Leadership](https://bit.ly/3x7dEXh)**
 - Kurzweil, Ray. **[The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://bit.ly/30cpqAG)**
 - Lanier, Jaron. **[You Are Not a Gadget](https://bit.ly/338yCbc)**
 - Lem, Stanislew. **[The Futurological Congress](https://bit.ly/2X9ndnG)**
