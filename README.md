@@ -69,6 +69,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Rhodes, Richard. **[How to Write: Advice and Reflections](https://bit.ly/3u5kRnU)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
 - Sapolsky, Robert M. **[Behave: The Biology of Humans at Our Best and Worst](https://bit.ly/3m7WQrW)**
+- Saunders, George. **[Pastoralia](https://bit.ly/3FszBDg)**
 - Schwartz, Barry. **[Why We Work](https://bit.ly/3cCoWud)**
 - Seiple, Samantha. **[Death on the River of Doubt: Theodore Roosevelt's Amazon Adventure](https://bit.ly/3xkAnOp)**
 - Sherwin, David. **[Turning People into Teams: Rituals and Routines That Redesign How We Work](https://bit.ly/328FAP3)**
