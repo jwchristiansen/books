@@ -85,3 +85,4 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Susskind, Richard. **[The End of Lawyers?](https://bit.ly/33b7xEg)**
 - Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
 - Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
+- Whitehead, Colson. **[The Intuitionist](https://bit.ly/3x46keX)**
