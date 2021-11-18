@@ -71,6 +71,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Schwartz, Barry. **[Why We Work](https://bit.ly/3cCoWud)**
 - Seiple, Samantha. **[Death on the River of Doubt: Theodore Roosevelt's Amazon Adventure](https://bit.ly/3xkAnOp)**
 - Sherwin, David. **[Turning People into Teams: Rituals and Routines That Redesign How We Work](https://bit.ly/328FAP3)**
+- Shukla, Nikesh (Editor). **[The Good Immigrant](https://bit.ly/3oFy31Y)**
 - Singer, Ryan. **[Shape Up: Stop Running in Circles and Ship Work That Matters](https://bit.ly/2IBTpfv)**
 - Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
 - Sivers, Derek. **[Hell Yeah or No](https://bit.ly/2BGZcgi)**
