@@ -81,6 +81,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Sivers, Derek. **[Your Music and People](https://bit.ly/2TdKzX8)**
 - Smart, Geoff. **[Who: The A Method for Hiring](https://bit.ly/3wq4bJB)**
 - Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
+- Sontag, Susan. **[On Photography](https://bit.ly/30GhkDC)**
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
 - Taleb, Nassim Nicholas. **[Antifragile: Things That Gain from Disorder](https://bit.ly/3qB202s)**
