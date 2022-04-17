@@ -4,6 +4,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 
 - Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
 - Ahrens, Sönke. **[How to Take Smart Notes](https://bit.ly/3oMfpUB)**
+- Albright, Madeline. **[Hell and Other Destinations](https://bit.ly/3vrIQQu)**
 - Anderson, William. **[Prairie Girl: The Life of Laura Ingalls Wilder](https://bit.ly/39IXbgT)**
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
 - Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
