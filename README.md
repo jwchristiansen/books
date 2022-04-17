@@ -21,6 +21,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Coyle, Daniel. **[The Culture Code: The Secrets of Highly Successful Groups](https://bit.ly/3fSBhMh)**
 - Doerr, John. **[Measure What Matters](https://bit.ly/3qMr2is)**
 - Dolnick, Edward. **[Down the Great Unknown: John Wesley Powell's 1869 Journey of Discovery and Tragedy Through the Grand Canyon](https://bit.ly/39Hrd4b)**
+- Easter, Michael. **[The Comfort Crisis](https://bit.ly/3jK0Yjd)**
 - Egan, Timothy. **[Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis](https://bit.ly/3n9Rb6C)**
 - Eghbal, Nadia. **[Working in Public: The Making and Maintenance of Open Source Software](https://bit.ly/2KVSI1z)**
 - Epstein, David. **[Range](https://bit.ly/2EqzNbJ)**
