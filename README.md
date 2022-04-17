@@ -56,6 +56,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Ma, Ling. **[Severance](https://bit.ly/37RjwYy)**
 - Mackesy, Charlie. **[The Boy, the Mole, the Fox and the Horse](https://bit.ly/2WRxiFk)**
 - Maister, David. **[Managing The Professional Service Firm](https://bit.ly/3wZOIks)**
+- Mandelstam, Nadezhda. **[Hope Against Hope](https://bit.ly/3EojUNX)**
 - Mars, Roman. **[The 99% Invisible City](https://99percentinvisible.org/book/)**
 - Metz, Sandi. **[Practical Object Oriented Design in Ruby](https://bit.ly/3aRjaDX)**
 - Miller, Carl. **[The Death of the Gods](https://bit.ly/2Xe1sTM)**
