@@ -74,6 +74,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Rhodes, Richard. **[How to Write: Advice and Reflections](https://bit.ly/3u5kRnU)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
 - Sapolsky, Robert M. **[Behave: The Biology of Humans at Our Best and Worst](https://bit.ly/3m7WQrW)**
+- Saunders, George. **[A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://bit.ly/3xDDbtp)**
 - Saunders, George. **[Pastoralia](https://bit.ly/3FszBDg)**
 - Schmidt, Eric et al. **[Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://bit.ly/3EpR4go)**
 - Schwartz, Barry. **[Why We Work](https://bit.ly/3cCoWud)**
