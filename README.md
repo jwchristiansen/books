@@ -26,6 +26,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Epstein, David. **[Range](https://bit.ly/2EqzNbJ)**
 - Eyal, Nir. **[Hooked: How to Build Habit-Forming Products](https://bit.ly/35GtT0K)**
 - Fitzpatrick, Rob. **[The Mom Test](https://bit.ly/3pNUIYb)**
+- Foer, Joshua. **[Moonwalking with Einstein](https://bit.ly/3Enyqp5)**
 - Fowler, Martin. **[Refactoring](https://bit.ly/3jVaHSJ)**
 - Fowler, Susan. **[Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber](https://bit.ly/315nGbV)**
 - Fried, Jason and Heinemeier Hansson, David. **[It Doesn't Have to Be Crazy at Work](https://bit.ly/2EALyfV)**
