@@ -34,6 +34,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Fromm, Erich. **[To Have or to Be?](https://bit.ly/2BOetfy)**
 - Fukuoka, Masanobu. **[The One-Straw Revolution](https://bit.ly/3jX5d9R)**
 - Gilbert, Daniel Todd. **[Stumbling on Happiness](https://bit.ly/3aGvFkd)**
+- Graeber, David. **[Bullshit Jobs: A Theory](https://bit.ly/3xtKmo2)**
 - Guzzi, Martin. **[The Revolt of the Public and the Crisis of Authority](https://bit.ly/3bvXZq6)**
 - Haidt, Jonathan. **[The Righteous Mind](https://bit.ly/2EqB3vt)**
 - Harris, Annaka. **[Conscious](https://bit.ly/2PdfYGU)**
