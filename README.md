@@ -64,6 +64,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
 - Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://bit.ly/39O4gwc)**
 - Papert, Seymour. **[Mindstorms: Children, Computers, And Powerful Ideas](https://bit.ly/3nOZuVl)**
+- Perel, Esther. **[Mating in Captivity](https://bookshop.org/books/mating-in-captivity-unlocking-erotic-intelligence/9780060753641)**
 - Pearson, Taylor. **[The End of Jobs](https://bit.ly/2QSjxn6)**
 - Pink, Daniel. **[Drive](https://bit.ly/2Xb9ZXO)**
 - Plato. **[The Symposium](https://bit.ly/3gcUplO)**
