@@ -38,6 +38,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Fromm, Erich. **[Escape from Freedom](https://bit.ly/3hPKvXD)**
 - Fromm, Erich. **[To Have or to Be?](https://bit.ly/2BOetfy)**
 - Fukuoka, Masanobu. **[The One-Straw Revolution](https://bit.ly/3jX5d9R)**
+- Gause, Donald and Weinberg, Gerald. **[Are Your Lights On?: How to Figure Out What the Problem Really Is](https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161)**
 - Gilbert, Daniel Todd. **[Stumbling on Happiness](https://bit.ly/3aGvFkd)**
 - Graeber, David. **[Bullshit Jobs: A Theory](https://bit.ly/3xtKmo2)**
 - Guzzi, Martin. **[The Revolt of the Public and the Crisis of Authority](https://bit.ly/3bvXZq6)**
