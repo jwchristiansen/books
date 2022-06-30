@@ -54,6 +54,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Kofman, Fred. **[The Meaning Revolution: The Power of Transcendent Leadership](https://bit.ly/3x7dEXh)**
 - Kurzweil, Ray. **[The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://bit.ly/30cpqAG)**
 - Lanier, Jaron. **[You Are Not a Gadget](https://bit.ly/338yCbc)**
+- LaPointe, Sasha. **[Red Paint: The Ancestral Autobiography of a Coast Salish Punk](https://bookshop.org/books/red-paint-the-ancestral-autobiography-of-a-coast-salish-punk/9781640094147)**
 - Lem, Stanislew. **[The Futurological Congress](https://bit.ly/2X9ndnG)**
 - Leopold, Aldo. **[Sand County Almanac](https://bit.ly/3jXf4Nd)**
 - Ma, Ling. **[Severance](https://bit.ly/37RjwYy)**
