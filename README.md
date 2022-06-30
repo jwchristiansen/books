@@ -12,6 +12,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Brewer, Judson. **[Unwinding Anxiety](https://bookshop.org/books/unwinding-anxiety-new-science-shows-how-to-break-the-cycles-of-worry-and-fear-to-heal-your-mind/9780593330449)**
 - Brooks, David. **[The Second Mountain](https://bit.ly/3ryPtwH)**
 - Buck, Jamis. **[The Ray Tracer Challenge](https://bit.ly/3feDLRJ)**
+- Cain, Susan. **[Bittersweet](https://bookshop.org/books/bittersweet-how-sorrow-and-longing-make-us-whole-9780593506059/9780451499783)**
 - Caro, Robert. **[Working](https://bit.ly/33d7ZSy)**
 - Caro, Robert. **[The Path to Power](https://bit.ly/30ahsIu)**
 - Caro, Robert. **[Means of Ascent](https://bit.ly/3ikC5rm)**
