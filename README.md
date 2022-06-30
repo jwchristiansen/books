@@ -101,4 +101,5 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
 - Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
 - Whitehead, Colson. **[The Intuitionist](https://bit.ly/3x46keX)**
+- Why The Lucky Stiff. **[Why's (Poignant) Guide to Ruby](https://bookshop.org/books/why-s-poignant-guide-to-ruby-9781838039509/9781838039509)**
 - Yoder, Janet. **[Where the Language Lives: Vi Hilbert and the Gift of Lushootseed](https://bookshop.org/books/where-the-language-lives-vi-hilbert-and-the-gift-of-lushootseed/9781954854260)**
