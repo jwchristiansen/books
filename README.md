@@ -9,6 +9,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
 - Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
 - Berry, Wendell. **[The Art of Loading Brush](https://bit.ly/310dNMt)**
+- Brewer, Judson. **[Unwinding Anxiety](https://bookshop.org/books/unwinding-anxiety-new-science-shows-how-to-break-the-cycles-of-worry-and-fear-to-heal-your-mind/9780593330449)**
 - Brooks, David. **[The Second Mountain](https://bit.ly/3ryPtwH)**
 - Buck, Jamis. **[The Ray Tracer Challenge](https://bit.ly/3feDLRJ)**
 - Caro, Robert. **[Working](https://bit.ly/33d7ZSy)**
@@ -94,7 +95,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
 - Taleb, Nassim Nicholas. **[Antifragile: Things That Gain from Disorder](https://bit.ly/3qB202s)**
 - Susskind, Richard. **[The End of Lawyers?](https://bit.ly/33b7xEg)**
-- Walker, Matthew **[Why We Sleep](https://bookshop.org/books/why-we-sleep-unlocking-the-power-of-sleep-and-dreams/9781501144325)**
+- Walker, Matthew. **[Why We Sleep](https://bookshop.org/books/why-we-sleep-unlocking-the-power-of-sleep-and-dreams/9781501144325)**
 - Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
 - Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
 - Whitehead, Colson. **[The Intuitionist](https://bit.ly/3x46keX)**
