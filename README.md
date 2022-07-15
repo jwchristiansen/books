@@ -99,6 +99,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
 - Taleb, Nassim Nicholas. **[Antifragile: Things That Gain from Disorder](https://bit.ly/3qB202s)**
 - Susskind, Richard. **[The End of Lawyers?](https://bit.ly/33b7xEg)**
+- Wada, Sanzo. **[A Dictionary of Color Combinations](https://www.goodreads.com/book/show/19976800-a-dictionary-of-color-combinations)**
 - Walker, Matthew. **[Why We Sleep](https://bookshop.org/books/why-we-sleep-unlocking-the-power-of-sleep-and-dreams/9781501144325)**
 - Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
 - Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
