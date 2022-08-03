@@ -48,6 +48,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Harris, Dan. **[10% Happier](https://bit.ly/2ErTv6W)**
 - Harris, Sam. **[Waking Up: A Guide to Spirituality Without Religion](https://bit.ly/3oBCDwR)**
 - Huxley, Aldous. **[Island](https://bit.ly/339XZJR)**
+- Issacson, Walter. **[Steve Jobs](https://bookshop.org/books/steve-jobs-9781982176860/9781451648539)**
 - Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://bit.ly/33n4h9h)**
 - Johnstone, Keith. **[Impro](https://bit.ly/3h39Ahi)**
 - Kavenna, Joanna. **[Zed](https://bit.ly/2Dk3Z7U)**
