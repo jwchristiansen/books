@@ -3,7 +3,6 @@
 Alphabetical order by author last name (chronological **[here](https://github.com/jwchristiansen/books/commits/master)**).
 
 - Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
-- Ahrens, Sönke. **[How to Take Smart Notes](https://bit.ly/3oMfpUB)**
 - Albright, Madeline. **[Hell and Other Destinations](https://bit.ly/3vrIQQu)**
 - Anderson, William. **[Prairie Girl: The Life of Laura Ingalls Wilder](https://bit.ly/39IXbgT)**
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
@@ -21,7 +20,6 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Chiang, Ted. **[Exhalation](https://bit.ly/2DeNnhT)**
 - Christensen, Clayton, et al. **[Competing Against Luck](https://bit.ly/33b0j36)**
 - Christian, Bryan and Griffiths, Tom. **[Algorithms to Live By: The Computer Science of Human Decisions](https://bit.ly/3wVqt5K)**
-- Clear, James. **[Atomic Habits](https://bit.ly/315bx6z)**
 - Coyle, Daniel. **[The Culture Code: The Secrets of Highly Successful Groups](https://bit.ly/3fSBhMh)**
 - Crenshaw, Dave. **[The Myth of Multitasking](https://bit.ly/3KU6WKf)**
 - de Botton, Alain. **[The Architecture of Happiness](https://www.goodreads.com/book/show/23418.The_Architecture_of_Happiness?ac=1&from_search=true&qid=Su9BjFOXi2&rank=1)**
@@ -41,12 +39,10 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Fromm, Erich. **[To Have or to Be?](https://bit.ly/2BOetfy)**
 - Fukuoka, Masanobu. **[The One-Straw Revolution](https://bit.ly/3jX5d9R)**
 - Gause, Donald and Weinberg, Gerald. **[Are Your Lights On?: How to Figure Out What the Problem Really Is](https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161)**
-- Gilbert, Daniel Todd. **[Stumbling on Happiness](https://bit.ly/3aGvFkd)**
 - Graeber, David. **[Bullshit Jobs: A Theory](https://bit.ly/3xtKmo2)**
 - Guzzi, Martin. **[The Revolt of the Public and the Crisis of Authority](https://bit.ly/3bvXZq6)**
 - Haidt, Jonathan. **[The Righteous Mind](https://bit.ly/2EqB3vt)**
 - Harris, Annaka. **[Conscious](https://bit.ly/2PdfYGU)**
-- Harris, Dan. **[10% Happier](https://bit.ly/2ErTv6W)**
 - Harris, Sam. **[Waking Up: A Guide to Spirituality Without Religion](https://bit.ly/3oBCDwR)**
 - Huxley, Aldous. **[Island](https://bit.ly/339XZJR)**
 - Issacson, Walter. **[Steve Jobs](https://bookshop.org/books/steve-jobs-9781982176860/9781451648539)**
@@ -54,7 +50,6 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Johnstone, Keith. **[Impro](https://bit.ly/3h39Ahi)**
 - Kavenna, Joanna. **[Zed](https://bit.ly/2Dk3Z7U)**
 - Kierkegaard, Søren. **[Either/Or](https://bit.ly/39KuyPY)**
-- Kofman, Fred. **[The Meaning Revolution: The Power of Transcendent Leadership](https://bit.ly/3x7dEXh)**
 - Kurzweil, Ray. **[The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://bit.ly/30cpqAG)**
 - Lanier, Jaron. **[You Are Not a Gadget](https://bit.ly/338yCbc)**
 - LaPointe, Sasha. **[Red Paint: The Ancestral Autobiography of a Coast Salish Punk](https://bookshop.org/books/red-paint-the-ancestral-autobiography-of-a-coast-salish-punk/9781640094147)**
@@ -66,7 +61,6 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Mandelstam, Nadezhda. **[Hope Against Hope](https://bit.ly/3EojUNX)**
 - Mars, Roman. **[The 99% Invisible City](https://99percentinvisible.org/book/)**
 - Metz, Sandi. **[Practical Object Oriented Design in Ruby](https://bit.ly/3aRjaDX)**
-- Miller, Carl. **[The Death of the Gods](https://bit.ly/2Xe1sTM)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
 - Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://bit.ly/39O4gwc)**
 - Papert, Seymour. **[Mindstorms: Children, Computers, And Powerful Ideas](https://bit.ly/3nOZuVl)**
@@ -77,8 +71,6 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Pollan, Michael. **[How to Change Your Mind](https://bit.ly/339BjJz)**
 - Pólya, George. **[How to Solve It: A New Aspect of Mathematical Method](https://bit.ly/3gyb4kI)**
 - Pomerantsev, Peter. **[Nothing is True and Everything is Possible: The Surreal Heart of the New Russia](https://bit.ly/318L7kK)**
-- Pressfield, Steven. **[Nobody Wants to Read Your Sh*t](https://bit.ly/3dMOCD2)**
-- Pressfield, Steven. **[The War of Art](https://bit.ly/3byBz7C)**
 - Quinones, Sam, et al. **[Dreamland](https://bit.ly/3hQHvdB)**
 - Rhodes, Richard. **[How to Write: Advice and Reflections](https://bit.ly/3u5kRnU)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
@@ -88,15 +80,12 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Schmidt, Eric et al. **[Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://bit.ly/3EpR4go)**
 - Schwartz, Barry. **[Why We Work](https://bit.ly/3cCoWud)**
 - Seiple, Samantha. **[Death on the River of Doubt: Theodore Roosevelt's Amazon Adventure](https://bit.ly/3xkAnOp)**
-- Sherwin, David. **[Turning People into Teams: Rituals and Routines That Redesign How We Work](https://bit.ly/328FAP3)**
 - Shukla, Nikesh (Editor). **[The Good Immigrant](https://bit.ly/3oFy31Y)**
 - Silko, Leslie Marmon. **[Ceremony](https://www.goodreads.com/book/show/588234.Ceremony)**
 - Singer, Ryan. **[Shape Up: Stop Running in Circles and Ship Work That Matters](https://bit.ly/2IBTpfv)**
-- Sisson, Mark and Kearns, Brad. **[Primal Endurance](https://bit.ly/3mh1vZj)**
 - Sivers, Derek. **[Hell Yeah or No](https://bit.ly/2BGZcgi)**
 - Sivers, Derek. **[How to Live](https://sive.rs/h)**
 - Sivers, Derek. **[Your Music and People](https://bit.ly/2TdKzX8)**
-- Smart, Geoff. **[Who: The A Method for Hiring](https://bit.ly/3wq4bJB)**
 - Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
 - Sontag, Susan. **[On Photography](https://bit.ly/30GhkDC)**
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
@@ -104,9 +93,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Taleb, Nassim Nicholas. **[Antifragile: Things That Gain from Disorder](https://bit.ly/3qB202s)**
 - Susskind, Richard. **[The End of Lawyers?](https://bit.ly/33b7xEg)**
 - Wada, Sanzo. **[A Dictionary of Color Combinations](https://www.goodreads.com/book/show/19976800-a-dictionary-of-color-combinations)**
-- Walker, Matthew. **[Why We Sleep](https://bookshop.org/books/why-we-sleep-unlocking-the-power-of-sleep-and-dreams/9781501144325)**
 - Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
 - Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
-- Whitehead, Colson. **[The Intuitionist](https://bit.ly/3x46keX)**
 - Why The Lucky Stiff. **[Why's (Poignant) Guide to Ruby](https://bookshop.org/books/why-s-poignant-guide-to-ruby-9781838039509/9781838039509)**
 - Yoder, Janet. **[Where the Language Lives: Vi Hilbert and the Gift of Lushootseed](https://bookshop.org/books/where-the-language-lives-vi-hilbert-and-the-gift-of-lushootseed/9781954854260)**
