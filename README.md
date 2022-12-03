@@ -25,6 +25,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - de Botton, Alain. **[The Architecture of Happiness](https://www.goodreads.com/book/show/23418.The_Architecture_of_Happiness?ac=1&from_search=true&qid=Su9BjFOXi2&rank=1)**
 - Doerr, John. **[Measure What Matters](https://bit.ly/3qMr2is)**
 - Dolnick, Edward. **[Down the Great Unknown: John Wesley Powell's 1869 Journey of Discovery and Tragedy Through the Grand Canyon](https://bit.ly/39Hrd4b)**
+- Drasner, Sarah. **[Engineering Management for the Rest of Us](https://bookshop.org/p/books/engineering-management-for-the-rest-of-us/18891490?ean=9798986769301)**
 - Easter, Michael. **[The Comfort Crisis](https://bit.ly/3jK0Yjd)**
 - Egan, Timothy. **[Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis](https://bit.ly/3n9Rb6C)**
 - Eghbal, Nadia. **[Working in Public: The Making and Maintenance of Open Source Software](https://bit.ly/2KVSI1z)**
