@@ -61,6 +61,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Mackesy, Charlie. **[The Boy, the Mole, the Fox and the Horse](https://bit.ly/2WRxiFk)**
 - Maister, David. **[Managing The Professional Service Firm](https://bit.ly/3wZOIks)**
 - Mandelstam, Nadezhda. **[Hope Against Hope](https://bit.ly/3EojUNX)**
+- Mann, Charles. **[The Wizard and the Prophet: Two Remarkable Scientists and Their Dueling Visions to Shape Tomorrow's World](https://www.goodreads.com/book/show/34959327-the-wizard-and-the-prophet)**
 - Mars, Roman. **[The 99% Invisible City](https://99percentinvisible.org/book/)**
 - Metz, Sandi. **[Practical Object Oriented Design in Ruby](https://bit.ly/3aRjaDX)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
