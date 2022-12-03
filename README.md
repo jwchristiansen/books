@@ -96,6 +96,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
 - Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
 - Taleb, Nassim Nicholas. **[Antifragile: Things That Gain from Disorder](https://bit.ly/3qB202s)**
+- Thomas, David and Hunt, Andrew. **[The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition](https://bookshop.org/p/books/the-pragmatic-programmer-your-journey-to-mastery-20th-anniversary-edition-andrew-hunt/9408139?ean=9780135957059)**
 - Susskind, Richard. **[The End of Lawyers?](https://bit.ly/33b7xEg)**
 - Wada, Sanzo. **[A Dictionary of Color Combinations](https://www.goodreads.com/book/show/19976800-a-dictionary-of-color-combinations)**
 - Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
