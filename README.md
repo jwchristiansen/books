@@ -67,6 +67,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Mann, Charles. **[The Wizard and the Prophet: Two Remarkable Scientists and Their Dueling Visions to Shape Tomorrow's World](https://www.goodreads.com/book/show/34959327-the-wizard-and-the-prophet)**
 - Mars, Roman. **[The 99% Invisible City](https://99percentinvisible.org/book/)**
 - Metz, Sandi. **[Practical Object Oriented Design in Ruby](https://bit.ly/3aRjaDX)**
+- Norman, Don **[The Design of Everyday Things](https://bookshop.org/p/books/the-design-of-everyday-things-don-norman/12398830?ean=9780465050659)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
 - Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://bit.ly/39O4gwc)**
 - Papert, Seymour. **[Mindstorms: Children, Computers, And Powerful Ideas](https://bit.ly/3nOZuVl)**
