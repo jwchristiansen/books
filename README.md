@@ -9,6 +9,7 @@ Alphabetical order by author last name (chronological **[here](https://github.co
 - Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
 - Berry, Wendell. **[The Art of Loading Brush](https://bit.ly/310dNMt)**
 - Brewer, Judson. **[Unwinding Anxiety](https://bookshop.org/books/unwinding-anxiety-new-science-shows-how-to-break-the-cycles-of-worry-and-fear-to-heal-your-mind/9780593330449)**
+- Brooks, Arthur. **[From Strength to Strength](https://bookshop.org/p/books/from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-arthur-c-brooks/16215322?ean=9780593191484)**
 - Brooks, David. **[The Second Mountain](https://bit.ly/3ryPtwH)**
 - Buck, Jamis. **[The Ray Tracer Challenge](https://bit.ly/3feDLRJ)**
 - Cain, Susan. **[Bittersweet](https://bookshop.org/books/bittersweet-how-sorrow-and-longing-make-us-whole-9780593506059/9780451499783)**
