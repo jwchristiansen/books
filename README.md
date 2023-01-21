@@ -75,6 +75,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Perel, Esther. **[Mating in Captivity](https://bookshop.org/books/mating-in-captivity-unlocking-erotic-intelligence/9780060753641)**
 - Pearson, Taylor. **[The End of Jobs](https://bit.ly/2QSjxn6)**
 - **[*]** Pink, Daniel. **[Drive](https://bit.ly/2Xb9ZXO)**
+- Pink, Daniel. **[The Power of Regret](https://bookshop.org/p/books/the-power-of-regret-how-looking-backward-moves-us-forward-daniel-h-pink/17786219)**
 - Plato. **[The Symposium](https://bit.ly/3gcUplO)**
 - Pollan, Michael. **[How to Change Your Mind](https://bit.ly/339BjJz)**
 - Pólya, George. **[How to Solve It: A New Aspect of Mathematical Method](https://bit.ly/3gyb4kI)**
