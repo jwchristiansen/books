@@ -47,6 +47,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Haidt, Jonathan. **[The Righteous Mind](https://bit.ly/2EqB3vt)**
 - Harris, Annaka. **[Conscious](https://bit.ly/2PdfYGU)**
 - Harris, Sam. **[Waking Up: A Guide to Spirituality Without Religion](https://bit.ly/3oBCDwR)**
+- Heath, Chip and Starr, Karla. **[Making Numbers Count](https://bookshop.org/p/books/making-numbers-count-the-art-and-science-of-communicating-numbers-karla-starr/16246316)**
 - Hurt, Karin. **[Courageous Cultures: How to Build Teams of Micro-Innovators, Problem Solvers, and Customer Advocates](https://bookshop.org/p/books/courageous-cultures-david-dye/14287283?ean=9781400219568)**
 - Huxley, Aldous. **[Beyond the Mexique Bay](https://www.goodreads.com/book/show/1034230.Beyond_the_Mexique_Bay)**
 - **[*]** Huxley, Aldous. **[Island](https://bit.ly/339XZJR)**
