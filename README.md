@@ -60,6 +60,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Lanier, Jaron. **[You Are Not a Gadget](https://bit.ly/338yCbc)**
 - LaPointe, Sasha. **[Red Paint: The Ancestral Autobiography of a Coast Salish Punk](https://bookshop.org/books/red-paint-the-ancestral-autobiography-of-a-coast-salish-punk/9781640094147)**
 - Larson, Will **[An Elegant Puzzle: Systems of Engineering Management](https://bookshop.org/p/books/an-elegant-puzzle-systems-of-engineering-management-will-larson/18697762?ean=9781732265189)**
+- Lavingia, Sahil. **[The Minimalist Entrepreneur](https://bookshop.org/p/books/the-minimalist-entrepreneur-how-great-founders-do-more-with-less-sahil-lavingia/16132371)**
 - Lem, Stanislew. **[The Futurological Congress](https://bit.ly/2X9ndnG)**
 - Leopold, Aldo. **[Sand County Almanac](https://bit.ly/3jXf4Nd)**
 - Ma, Ling. **[Severance](https://bit.ly/37RjwYy)**
