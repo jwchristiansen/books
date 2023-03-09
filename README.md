@@ -110,4 +110,5 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - **[*]** Waldrop, M. Mitchell **[The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://bit.ly/337TgbC)**
 - Watt Smith, Tiffany. **[Schadenfreude](https://bit.ly/3jRFBLI)**
 - Why The Lucky Stiff. **[Why's (Poignant) Guide to Ruby](https://bookshop.org/books/why-s-poignant-guide-to-ruby-9781838039509/9781838039509)**
+- Wickman, Gino. **[Traction](https://www.goodreads.com/book/show/18886376-traction)**
 - Yoder, Janet. **[Where the Language Lives: Vi Hilbert and the Gift of Lushootseed](https://bookshop.org/books/where-the-language-lives-vi-hilbert-and-the-gift-of-lushootseed/9781954854260)**
