@@ -31,6 +31,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Easter, Michael. **[The Comfort Crisis](https://bit.ly/3jK0Yjd)**
 - Egan, Timothy. **[Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis](https://bit.ly/3n9Rb6C)**
 - Eghbal, Nadia. **[Working in Public: The Making and Maintenance of Open Source Software](https://bit.ly/2KVSI1z)**
+- Elkington, John. **[Green Swans: The Coming Boom In Regenerative Capitalism](https://www.goodreads.com/book/show/52919387-green-swans)**
 - **[*]** Epstein, David. **[Range](https://bit.ly/2EqzNbJ)**
 - Eyal, Nir. **[Hooked: How to Build Habit-Forming Products](https://bit.ly/35GtT0K)**
 - Fitzpatrick, Rob. **[The Mom Test](https://bit.ly/3pNUIYb)**
