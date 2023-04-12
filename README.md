@@ -5,6 +5,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Abbey, Edward. **[Desert Solitaire](https://bit.ly/3ffNVBx)**
 - Albright, Madeline. **[Hell and Other Destinations](https://bit.ly/3vrIQQu)**
 - Anderson, William. **[Prairie Girl: The Life of Laura Ingalls Wilder](https://bit.ly/39IXbgT)**
+- Ariely, Daniel. **[Predictably Irrational](https://bookshop.org/p/books/predictably-irrational-revised-and-expanded-edition-the-hidden-forces-that-shape-our-decisions-dan-ariely/8942152)**
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
 - Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
 - Berry, Wendell. **[The Art of Loading Brush](https://bit.ly/310dNMt)**
