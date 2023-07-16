@@ -93,6 +93,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Rhodes, Richard. **[How to Write: Advice and Reflections](https://bit.ly/3u5kRnU)**
 - Rilke, Rainer Maria. **[Letters to a Young Poet](https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
+- Rosenberg, Marshall. **[Nonviolent Communication: A Language of Life](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)**
 - Rubin, Rick. **[The Creative Act](https://bookshop.org/p/books/the-creative-act-a-way-of-being-rick-rubin/18543579)**
 - Sapolsky, Robert M. **[Behave: The Biology of Humans at Our Best and Worst](https://bit.ly/3m7WQrW)**
 - Saunders, George. **[A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life](https://bit.ly/3xDDbtp)**
