@@ -58,6 +58,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - **[*]** Huxley, Aldous. **[Island](https://bit.ly/339XZJR)**
 - Hwang, Tim. **[Subprime Attention Crisis](https://www.goodreads.com/book/show/50403486-subprime-attention-crisis)**
 - Issacson, Walter. **[Steve Jobs](https://bookshop.org/books/steve-jobs-9781982176860/9781451648539)**
+- Isukari, Yuba. **[Yokohama Station SF](https://www.goodreads.com/book/show/55661352-yokohama-station-sf)**
 - **[*]** Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://bit.ly/33n4h9h)**
 - Johnstone, Keith. **[Impro](https://bit.ly/3h39Ahi)**
 - Kavenna, Joanna. **[Zed](https://bit.ly/2Dk3Z7U)**
