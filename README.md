@@ -69,6 +69,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Lavingia, Sahil. **[The Minimalist Entrepreneur](https://bookshop.org/p/books/the-minimalist-entrepreneur-how-great-founders-do-more-with-less-sahil-lavingia/16132371)**
 - Lem, Stanislew. **[The Futurological Congress](https://bit.ly/2X9ndnG)**
 - Leopold, Aldo. **[Sand County Almanac](https://bit.ly/3jXf4Nd)**
+- Lieberman, Daniel and Long, Michael. **[The Molecule of More](https://www.goodreads.com/book/show/38728977-the-molecule-of-more)**
 - Ma, Ling. **[Severance](https://bit.ly/37RjwYy)**
 - Mackesy, Charlie. **[The Boy, the Mole, the Fox and the Horse](https://bit.ly/2WRxiFk)**
 - Maister, David. **[Managing The Professional Service Firm](https://bit.ly/3wZOIks)**
