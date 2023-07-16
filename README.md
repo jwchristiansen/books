@@ -52,6 +52,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Harris, Sam. **[Waking Up: A Guide to Spirituality Without Religion](https://bit.ly/3oBCDwR)**
 - Hastings, Reed and Meyer, Erin. **[No Rules Rules: Netflix and the Culture of Reinvention](https://bookshop.org/p/books/no-rules-rules-netflix-and-the-culture-of-reinvention-erin-meyer/13332186)**
 - Heath, Chip and Starr, Karla. **[Making Numbers Count](https://bookshop.org/p/books/making-numbers-count-the-art-and-science-of-communicating-numbers-karla-starr/16246316)**
+- Hull, Jeffrey. **[Flex: The Art and Science of Leadership in a Changing World](https://www.goodreads.com/book/show/43229714-flex)**
 - Hurt, Karin. **[Courageous Cultures: How to Build Teams of Micro-Innovators, Problem Solvers, and Customer Advocates](https://bookshop.org/p/books/courageous-cultures-david-dye/14287283?ean=9781400219568)**
 - Huxley, Aldous. **[Beyond the Mexique Bay](https://www.goodreads.com/book/show/1034230.Beyond_the_Mexique_Bay)**
 - **[*]** Huxley, Aldous. **[Island](https://bit.ly/339XZJR)**
