@@ -75,6 +75,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Mars, Roman. **[The 99% Invisible City](https://99percentinvisible.org/book/)**
 - Martin, Roger. **[A New Way to Think](https://www.goodreads.com/book/show/59682890-a-new-way-to-think)**
 - **[*]** Metz, Sandi. **[Practical Object Oriented Design in Ruby](https://bit.ly/3aRjaDX)**
+- Motsenbocker, Tyson. **[Where the Waves Turn Back](https://www.goodreads.com/book/show/61918868-where-the-waves-turn-back)**
 - Norman, Don **[The Design of Everyday Things](https://bookshop.org/p/books/the-design-of-everyday-things-don-norman/12398830?ean=9780465050659)**
 - Nussbaum, Martha. **[Anger and Forgiveness: Resentment, Generosity, Justice](https://bit.ly/313Av6A)**
 - Odell, Jenny. **[How to Do Nothing: Resisting the Attention Economy](https://bit.ly/39O4gwc)**
