@@ -44,6 +44,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Fromm, Erich. **[To Have or to Be?](https://bit.ly/2BOetfy)**
 - **[*]** Fukuoka, Masanobu. **[The One-Straw Revolution](https://bit.ly/3jX5d9R)**
 - Gause, Donald and Weinberg, Gerald. **[Are Your Lights On?: How to Figure Out What the Problem Really Is](https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161)**
+- Gay, Ross. **[The Book of Delights](https://bookshop.org/p/books/the-book-of-delights-essays-ross-gay/12566058?ean=9781616207922)**
 - **[*]** Graeber, David. **[Bullshit Jobs: A Theory](https://bit.ly/3xtKmo2)**
 - Grant, Adam. **[Think Again](https://bookshop.org/p/books/think-again-the-power-of-knowing-what-you-don-t-know-adam-grant/15174400)**
 - Guzzi, Martin. **[The Revolt of the Public and the Crisis of Authority](https://bit.ly/3bvXZq6)**
