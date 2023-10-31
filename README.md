@@ -62,6 +62,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - **[*]** Iyer, Pico. **[A Beginner's Guide to Japan: Observations and Provocations](https://bit.ly/33n4h9h)**
 - Johnstone, Keith. **[Impro](https://bit.ly/3h39Ahi)**
 - Kavenna, Joanna. **[Zed](https://bit.ly/2Dk3Z7U)**
+- Kennedy, Alicia. **[No Meat Required](https://bookshop.org/p/books/no-meat-required-the-cultural-history-and-culinary-future-of-plant-based-eating-alicia-kennedy/19177990?ean=9780807069172)**
 - Kierkegaard, Søren. **[Either/Or](https://bit.ly/39KuyPY)**
 - Kurzweil, Ray. **[The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://bit.ly/30cpqAG)**
 - Lanier, Jaron. **[You Are Not a Gadget](https://bit.ly/338yCbc)**
