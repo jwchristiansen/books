@@ -114,6 +114,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Snowden, Edward. **[Permanent Record](https://bit.ly/2PargvH)**
 - Sontag, Susan. **[On Photography](https://bit.ly/30GhkDC)**
 - Stark, Peter. **[Astoria](https://bookshop.org/p/books/astoria-astor-and-jefferson-s-lost-pacific-empire-a-tale-of-ambition-and-survival-on-the-early-american-frontier-peter-stark/6431662?ean=9780062218308)**
+- Stark, Peter. **[Gallop Toward the Sun](https://bookshop.org/p/books/gallop-toward-the-sun-tecumseh-and-harrison-s-struggle-for-the-destiny-of-a-nation-peter-stark/19082176?ean=9780593133613)**
 - Stark, Peter. **[The Last Empty Places](https://bit.ly/2P8Rkr7)**
 - **[*]** Stegner, Wallace. **[Beyond the Hundredth Meridian](https://bit.ly/30eIiyY)**
 - Taleb, Nassim Nicholas. **[Antifragile: Things That Gain from Disorder](https://bit.ly/3qB202s)**
