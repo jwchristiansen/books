@@ -69,6 +69,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Kierkegaard, Søren. **[Either/Or](https://bit.ly/39KuyPY)**
 - Kreutzman, Bill and Eisen, Benjy. **[Deal](https://www.goodreads.com/book/show/23014599-deal)**
 - Kurzweil, Ray. **[The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://bit.ly/30cpqAG)**
+- Labatut, Benjamín. **[The MANIAC](https://www.goodreads.com/book/show/75665931-the-maniac)**
 - Lanier, Jaron. **[You Are Not a Gadget](https://bit.ly/338yCbc)**
 - LaPointe, Sasha. **[Red Paint: The Ancestral Autobiography of a Coast Salish Punk](https://bookshop.org/books/red-paint-the-ancestral-autobiography-of-a-coast-salish-punk/9781640094147)**
 - Larson, Will **[An Elegant Puzzle: Systems of Engineering Management](https://bookshop.org/p/books/an-elegant-puzzle-systems-of-engineering-management-will-larson/18697762?ean=9781732265189)**
