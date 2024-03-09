@@ -99,6 +99,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Quinones, Sam, et al. **[Dreamland](https://bit.ly/3hQHvdB)**
 - Rhodes, Richard. **[How to Write: Advice and Reflections](https://bit.ly/3u5kRnU)**
 - Rilke, Rainer Maria. **[Letters to a Young Poet](https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet)**
+- Ritchie, Hannah. **[Not the End of the World](https://www.goodreads.com/book/show/145624737-not-the-end-of-the-world)**
 - Roberts, Gregory David. **[Shantaram](https://bit.ly/2Xd9MDs)**
 - Rosenberg, Marshall. **[Nonviolent Communication: A Language of Life](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)**
 - Rubin, Rick. **[The Creative Act](https://bookshop.org/p/books/the-creative-act-a-way-of-being-rick-rubin/18543579)**
