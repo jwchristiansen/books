@@ -8,6 +8,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Ariely, Daniel. **[Predictably Irrational](https://bookshop.org/p/books/predictably-irrational-revised-and-expanded-edition-the-hidden-forces-that-shape-our-decisions-dan-ariely/8942152)**
 - Beatty, Paul. **[The Sellout](https://bit.ly/2XdfLbf)**
 - Bentham, Jeremy. **[The Principles of Morals and Legislation](https://bit.ly/2XdfLbf)**
+- Benyus, Janine. **[Biomimicry: Innovation Inspired by Nature](https://www.goodreads.com/book/show/432853.Biomimicry)**
 - Berry, Wendell. **[The Art of Loading Brush](https://bit.ly/310dNMt)**
 - Boo, Katherine. **[Behind the Beautiful Forevers](https://bookshop.org/p/books/behind-the-beautiful-forevers-katherine-boo/228825)**
 - Brewer, Judson. **[Unwinding Anxiety](https://bookshop.org/books/unwinding-anxiety-new-science-shows-how-to-break-the-cycles-of-worry-and-fear-to-heal-your-mind/9780593330449)**
