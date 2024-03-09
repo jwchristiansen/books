@@ -132,6 +132,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Why The Lucky Stiff. **[Why's (Poignant) Guide to Ruby](https://bookshop.org/books/why-s-poignant-guide-to-ruby-9781838039509/9781838039509)**
 - Wickman, Gino. **[Traction](https://www.goodreads.com/book/show/18886376-traction)**
 - Wickman, Gino. **[What the Heck is EOS?](https://bookshop.org/p/books/what-the-heck-is-eos-a-complete-guide-for-employees-in-companies-running-on-eos-gino-wickman/48603?ean=9781543699562)**
+- Williams, David. **[Homewaters: A Human and Natural History of Puget Sound](https://www.goodreads.com/book/show/55716118-homewaters)**
 - Wilson Jr., David. **[Northern Paiutes of the Malheur: High Desert Reckoning in Oregon Country](https://www.goodreads.com/book/show/58309641-northern-paiutes-of-the-malheur)**
 - Wilson, Rainn. **[Soul Boom: Why We Need a Spiritual Revolution](https://www.goodreads.com/book/show/61918539-soul-boom)**
 - Yoder, Janet. **[Where the Language Lives: Vi Hilbert and the Gift of Lushootseed](https://bookshop.org/books/where-the-language-lives-vi-hilbert-and-the-gift-of-lushootseed/9781954854260)**
