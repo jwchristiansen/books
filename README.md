@@ -47,6 +47,7 @@ Alphabetical order by author last name. Entries with **[*]** were standouts to m
 - Gause, Donald and Weinberg, Gerald. **[Are Your Lights On?: How to Figure Out What the Problem Really Is](https://www.amazon.com/Are-Your-Lights-Figure-Problem/dp/0932633161)**
 - Gay, Ross. **[The Book of Delights](https://bookshop.org/p/books/the-book-of-delights-essays-ross-gay/12566058?ean=9781616207922)**
 - **[*]** Graeber, David. **[Bullshit Jobs: A Theory](https://bit.ly/3xtKmo2)**
+- **[*]** Graeber, David and Wengrow, David. **[The Dawn of Everything](https://www.goodreads.com/book/show/56269264-the-dawn-of-everything)**
 - Grant, Adam. **[Think Again](https://bookshop.org/p/books/think-again-the-power-of-knowing-what-you-don-t-know-adam-grant/15174400)**
 - Guzzi, Martin. **[The Revolt of the Public and the Crisis of Authority](https://bit.ly/3bvXZq6)**
 - Haidt, Jonathan. **[The Righteous Mind](https://bit.ly/2EqB3vt)**
